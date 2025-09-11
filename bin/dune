@@ -1,0 +1,4 @@
+(executable
+ (public_name theproc)
+ (name main)
+ (libraries theproc))

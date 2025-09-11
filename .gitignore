@@ -1,0 +1,48 @@
+# Dune build artifacts
+_build/
+.dune/
+.dune-configurator/
+
+# Dune release tool
+.dune-release/
+
+# Merlin / editor helpers
+.merlin
+.merlin-exact
+
+# OCaml bytecode / native binaries
+*.cmi
+*.cmo
+*.cma
+*.cmx
+*.cmxa
+*.o
+*.a
+*.cmxs
+*.annot
+
+# OCaml compiler intermediates
+*.exe
+*.bc
+*.out
+*.obj
+
+# Top-level / utop history
+.ocamlinit
+.ocamlformat
+.ocamlformat-ignore
+.utop-history
+
+# Opam local switch
+_opam/
+
+# Logs
+*.log
+
+# Misc editor / system files
+*~
+*.swp
+.DS_Store
+
+# Assembly files
+*.asm
