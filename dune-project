@@ -7,13 +7,13 @@
 (source
  (github username/reponame))
 
-(authors "Author Name <author@example.com>")
+(authors "Anatole Leterrier")
 
-(maintainers "Maintainer Name <maintainer@example.com>")
+; (maintainers "Maintainer Name <maintainer@example.com>")
 
-(license LICENSE)
+; (license LICENSE)
 
-(documentation https://url/to/documentation)
+; (documentation https://url/to/documentation)
 
 (package
  (name theproc)
